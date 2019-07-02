@@ -1,1 +1,3 @@
-# koodikoulu
+# Sisun koodikoulu
+
+Puuhaa harjoitustehtäviä
